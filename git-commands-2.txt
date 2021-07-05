@@ -1,0 +1,11 @@
+git status -> prints the status of the Git Repository
+git init -> initializes the Git Repository
+git config --global user.name "" -> Specify username -> All repositories
+git config --global user.email -> All repositories
+git config user.name "" -> One repository
+git config user.email -> One repository
+git add
+git add * -> All files will be moved to staging environment Ready to commit
+git commit -m ""
+git log
+git diff <filename>
