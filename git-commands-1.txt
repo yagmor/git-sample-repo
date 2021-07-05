@@ -5,6 +5,7 @@ git config --global user.email
 git config user.name ""
 git config user.email 
 git add
+git add * -> All files will be moved to staging environment Ready to commit
 git commit -m ""
 git log
 git diff <filename>
